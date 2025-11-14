@@ -19,6 +19,7 @@ Pozrite si prednášku o návrhu robustného regulátora, urobte zmeny v program
   
 <img width="1693" height="1008" alt="image" src="https://github.com/user-attachments/assets/13104fdb-1266-4bd5-b68a-2286de059532" />
 
-<img width="1375" height="625" alt="image" src="https://github.com/user-attachments/assets/d5f4c3ea-ccfd-40fc-9f93-d804635651c4" />
+<img width="2187" height="844" alt="image" src="https://github.com/user-attachments/assets/eb9d95ca-dcf1-4dc0-a97d-283a85909a8d" />
 
-<img width="1890" height="733" alt="image" src="https://github.com/user-attachments/assets/38d2c4af-8bf2-4ff5-bd9d-bc8989b2a9f1" />
+<img width="1717" height="794" alt="image" src="https://github.com/user-attachments/assets/9267c3c8-ec98-4890-9f60-e0f09197f2b4" />
+
