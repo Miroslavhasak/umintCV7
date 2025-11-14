@@ -16,3 +16,9 @@ Pozrite si prednášku o návrhu robustného regulátora, urobte zmeny v program
    3. graf priebehu riadiacej veličiny pre všetky tri pracovné body. Všetky ostatné podmienky experimentu sú rovnaké, ako v predchádzajúcom zadaní.
    
 3. Grafy z úlohy 1 porovnajte s nasledovným experimentom: Navrhnite PID regulátor iba pre pracovný bod a). Tento regulátor použite aj pre riadenie systému s koeficientami b) a c).  Rovnako, ako v úlohe 1 vykreslite všetky tri obrázky, porovnajte ich navzájom s úlohou 1 a urobte diskusiu.
+  
+<img width="1693" height="1008" alt="image" src="https://github.com/user-attachments/assets/13104fdb-1266-4bd5-b68a-2286de059532" />
+
+<img width="1375" height="625" alt="image" src="https://github.com/user-attachments/assets/d5f4c3ea-ccfd-40fc-9f93-d804635651c4" />
+
+<img width="1890" height="733" alt="image" src="https://github.com/user-attachments/assets/38d2c4af-8bf2-4ff5-bd9d-bc8989b2a9f1" />
